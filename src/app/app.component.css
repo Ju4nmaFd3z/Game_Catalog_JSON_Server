@@ -1,0 +1,14 @@
+.panel,
+.tarjeta {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.fila {
+  margin-bottom: 0.5rem;
+}
+
+.paginacion {
+  margin: 1rem 0;
+}
